@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChatWith</string>
+    
+    <string name="BTN_RECORD_NORMAL">按住 说话</string>
+    <string name="BTN_RECORD_CANCEL">取消 发送</string>
+    <string name="BTN_RECORD_RECORDING">手指上滑 取消发送</string>
+    <string name="VOICE_TOO_SHORT">录音时间过短</string>
+</resources>
